@@ -1,0 +1,1 @@
+Additional census tract data downloaded from: https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-Boundaries/x7zy-2xmx/about_data
